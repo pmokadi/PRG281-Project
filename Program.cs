@@ -3,7 +3,10 @@ class Program
 {
     static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Console.WriteLine("Hiiiii Guys! Can you see this?")
+
+
+        Console.ReadKey();
     }
 }
 
