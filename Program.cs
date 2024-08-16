@@ -8,7 +8,7 @@ class Program
         Console.WriteLine("we're so julia");
         Console.WriteLine("ah AHH ah AH ah");
         Console.WriteLine("What does you're so Julia mean?")
-        Conosle.ReadLine();
+        Console.WriteLine("julia is a lifestyle. julia is a mindset. julia is BRAT");
         Console.ReadKey();
     }
 }
